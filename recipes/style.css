@@ -1,0 +1,12 @@
+body
+{
+ font-size: x-large;
+    font-family: 'Times New Roman', serif;
+}
+div{
+    background-color: beige;
+}
+img{
+    height: 300px;
+    width: auto;
+}
